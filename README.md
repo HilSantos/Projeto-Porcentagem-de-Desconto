@@ -1,4 +1,5 @@
-# ProjetoProfªLeticiaExerc04
+# Projeto Porcentagem de Desconto
+
 Crie um programa que leia o preço de um produto e a porcentagem de desconto, calcule o valor do desconto e o preço final do produto após o desconto. Exiba o valor do desconto e o preço final.
 
 Dicas:
